@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "(gdb) Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "/home/george/Development/cplus/SudokuSolver/SudokuSolver",
+        "args": [""],
+        "stopAtEntry": true,
+        "cwd": "/home/george/Development/cplus/SudokuSolver/",
+        "environment": [],
+        "externalConsole": true,
+
+      }
+    ]
+  }
